@@ -1,0 +1,19 @@
+{
+  "name": "buslocation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://584def957628e10798000194@buslocation-itoaxacaedu.rhcloud.com/~/git/buslocation.git/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  },
+  "description": ""
+}
